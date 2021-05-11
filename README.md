@@ -3,8 +3,12 @@ Hi there!
 Have you ever been frustrated about a word puzzle that you just couldn't solve? Fret no more.Here's the python solution for all your problems.<br>
 For now, I've uploaded codes only for two types of games: **```SCRAMBLE```** and **```SPELLATHON```**.<br><br>
 With time, I'll add more to this list.<br><br>
+### SPELLATHON
+![spellathon](https://user-images.githubusercontent.com/60544230/117882324-d7947980-b2c7-11eb-8641-8de9a70844a6.jpg)
+<br><br>
 ### SCRAMBLE
-![Alt text](scramble.jpg?raw=true "Scramble")
+![word scramble](https://user-images.githubusercontent.com/60544230/117882231-bfbcf580-b2c7-11eb-86d4-2c43a8141ea5.jpg)
+<br><br>
 Please note that you need the **itertools** package for these codes if you don't have it up and running already.<br><br>
 Also, these are Markdown files that are great for adding text based explanation alongside code. If you are unfamiliar with the Markdown system or just want the python code, feel fry to just copy what's inside the code chunks (the shaded boxes) of each file.
 <br><br>
