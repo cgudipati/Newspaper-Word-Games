@@ -9,7 +9,7 @@ With time, I'll add more to this list.<br><br>
 ### SCRAMBLE
 ![word scramble](https://user-images.githubusercontent.com/60544230/117882231-bfbcf580-b2c7-11eb-86d4-2c43a8141ea5.jpg)
 <br><br>
-Please note that you need the **itertools** package for these codes if you don't have it up and running already.<br><br>
+Please note that you need the **```itertools```** package for these codes if you don't have it up and running already.<br><br>
 Also, these are Markdown files that are great for adding text based explanation alongside code. If you are unfamiliar with the Markdown system or just want the python code, feel fry to just copy what's inside the code chunks (the shaded boxes) of each file.
 <br><br>
 Finally, you may **use any of the text files** for the codes I have uploaded. All you have to do is change the file location in the code. Some have more words but a bit of gibberish noise. Others are more accurate but with fewer words. Feel free to use these or any other available english dictionary words list on the internet.
